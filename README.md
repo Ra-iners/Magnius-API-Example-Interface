@@ -1,6 +1,6 @@
 # Magnius-API-Example-Interface
 
-Magnius API is an extension that is made for people to use Magnius Module without doing extra coding.
+Magnius API is an extension for Magnius that is made for people to use Magnius Module without doing extra coding.
 
 ## Installation
 
