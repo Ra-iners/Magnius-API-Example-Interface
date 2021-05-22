@@ -4,7 +4,7 @@ Magnius API is an extension that is made for people to use Magnius Module withou
 
 ## Installation
 
-Watch the youtube video [video](https://www.youtube.com/watch?v=mjMsRpTwDbQ) to learn how to use/install Magnius Api
+Watch the youtube [video](https://www.youtube.com/watch?v=mjMsRpTwDbQ) to learn how to use/install Magnius Api
 
 ## Usage
 
