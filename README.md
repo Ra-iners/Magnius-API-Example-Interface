@@ -4,7 +4,6 @@ Magnius API is an extension that is made for people to use Magnius Module withou
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 Watch the youtube video [video](https://www.youtube.com/watch?v=mjMsRpTwDbQ) to learn how to use/install Magnius Api
 
 ## Usage
@@ -50,7 +49,7 @@ namespace MagniusAPIForms
 ## Contributing
 You can contribute to Magnius API by making / releasing nice UI's and using Magnius API while doing so! That would make me feel happy.
 
-# Credits
+## Credits
 
 Thanks to Rakion99 and
 Thanks to everyone in the Credits section of the Discord.
