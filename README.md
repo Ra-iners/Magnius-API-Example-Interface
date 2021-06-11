@@ -22,24 +22,28 @@ namespace MagniusAPIForms
             Magnius.Start(); // This initializes the API. Without this; you cannot use Magnius API.
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-          // Other code here.
-        }
-
+        /// <summary>
+        /// This function should usually be inside of a button, It will execute the given string, which can be something like a richTextBox, for example you'd put Magnius.Execute(RichTextBox1.Text);
+        /// </summary>
         private void button1_Click(object sender, EventArgs e)
         {
-            Magnius.Execute(richTextBox1.Text); // This must be inside an Execute button. It'll execute whatever is inside your text box. (NOTE: change 'richTextBox1' to your own text editor.)
+            Magnius.Execute(richTextBox1.Text);
         }
 
+        /// <summary>
+        /// This function should usually be inside of a button, It will inject the Magnius module into ROBLOX.
+        /// </summary>
         private void button2_Click(object sender, EventArgs e)
         {
-            Magnius.Inject(); // This must be inside an Inject button. It'll inject Magnius Module.
+            Magnius.Inject();
         }
 
+        /// <summary>
+        /// This function should usually be inside of a button, it will redirect the user to a website, where they will be able to get the key.
+        /// </summary>
         private void button3_Click(object sender, EventArgs e)
         {
-            Magnius.GetKey(); // This must be inside a Get Key button. It'll redirect you to the link to get the key.
+            Magnius.GetKey();
         }
     }
 }
